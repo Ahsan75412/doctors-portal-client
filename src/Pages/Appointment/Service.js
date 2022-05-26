@@ -19,6 +19,7 @@ const Service = ({ service, setTreatment }) => {
                         onClick={() => setTreatment(service)}
                         class="btn btn-sm btn-secondary text-white uppercase bg-gradient-to-r from-secondary to-primary"
                         >Book Appointment</label>
+                       
                 </div>
             </div>
         </div>
